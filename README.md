@@ -6,7 +6,7 @@ MySQL ODBC Connectors - https://dev.mysql.com/downloads/connector/odbc/
 
 MySQL Connection Strings - https://www.connectionstrings.com/mysql-connector-odbc-5-2/
 
-See more about this demo on YouTube - https://youtu.be/CXV9-yQ4NVk
+See more about this demo on YouTube - [https://youtu.be/CXV9-yQ4NVk](https://youtu.be/ovBMoebmgOY)
 
 # MS-Access-to-SQLite
 
